@@ -1,0 +1,12 @@
+*.exe
+.vscode
+*.csproj
+*.sln
+
+#Build Results
+[Bb]in/
+[Oo]bj/
+.vs/
+
+#Main File - c#
+Program.cs
