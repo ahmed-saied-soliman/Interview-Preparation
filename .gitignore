@@ -2,7 +2,7 @@
 .vscode
 *.csproj
 *.sln
-
+*txt
 #Build Results
 [Bb]in/
 [Oo]bj/
